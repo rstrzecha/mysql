@@ -1,0 +1,10 @@
+VW	Passat	1.9 TDi	czerwony	22000
+Ford	S-Max	1.8 TDCi	czarny	21000
+Peugeot	307	1.6 HDI	czerwony	16500
+Peugeot	307	2.0 16V	biały	18000
+Ford	Mondeo	1.6 EcoBoost	czerwony	19000
+VW	Passat	1.9 TDi	czarny	16000
+Ford	S-Max	1.8 TDCi	biały	21000
+Peugeot	307	2.0 16V	biały	18000
+Peugeot	407	1.6 HDI	czerwony	20000
+Ford	Mondeo	1.6 EcoBoost	czerwony	17000

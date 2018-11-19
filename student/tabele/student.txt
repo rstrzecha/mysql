@@ -1,0 +1,5 @@
+Jan	Nowak	1989-02-03	jnowak@gmail.com
+Magdalena	Kowalska	1989-11-22	mkowalska@gmail.com
+Robert	Strzecha	1978-11-12	rstrzecha@wp.pl
+Eliza	Kowalska	1984-06-14	elizkow@gmail.com
+Małgorzata	Strzecha	1978-04-09	mstrzecha@wp.pl
